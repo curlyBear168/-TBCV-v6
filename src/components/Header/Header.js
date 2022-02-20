@@ -30,8 +30,6 @@ const Header = () => {
                             <a className="nav-link" href="#">Collection <i className="fas fa-angle-down ml-1" /></a>
                             <ul className="dropdown-menu">
                                 <li className="nav-item"><a href="/#" className="nav-link">Coming Soon</a></li>
-                                <li className="nav-item"><a href="/testcurlybbsumsum" target={"_blank"}className="nav-link">Coming Soon</a></li>
-
                             </ul>
                         </li>
                         <li className="nav-item dropdown">
