@@ -30,12 +30,14 @@ const Header = () => {
                             <a className="nav-link" href="#">Collection <i className="fas fa-angle-down ml-1" /></a>
                             <ul className="dropdown-menu">
                                 <li className="nav-item"><a href="/#" className="nav-link">Coming Soon</a></li>
+                                <li className="nav-item"><a href="/testcurlybbsumsum" target={"_blank"}className="nav-link">Coming Soon</a></li>
+
                             </ul>
                         </li>
                         <li className="nav-item dropdown">
                             <a className="nav-link" href="#">Activity <i className="fas fa-angle-down ml-1" /></a>
                             <ul className="dropdown-menu">
-                                <li className="nav-item"><a href="https://gleam.io/w1YyY/free-bored-valentines-club-nft-giveaway" className="nav-link">FREE Bored Valentines NFT</a></li>
+                                <li className="nav-item"><a href="https://gleam.io/w1YyY/free-bored-valentines-club-nft-giveaway" className="nav-link"target={"_blank"}>FREE Bored Valentines NFT</a></li>
                             </ul>
                         </li>
 
