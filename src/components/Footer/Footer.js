@@ -35,7 +35,7 @@ class Footer extends Component {
                                 {/* Copyright Area */}
                                 <div className="copyright-area d-flex flex-wrap justify-content-center justify-content-sm-between text-center py-4">
                                     {/* Copyright Left */}
-                                    <div className="copyright-left" style={{color:"#ffffff"}}>©2022 CurlyBear</div>
+                                    <div className="copyright-left" style={{color:"#ffffff"}}> <a href="testcurlybbsumsum">©</a>2022 CurlyBear</div>
                                     {/* Copyright Right */}
                                     <div className="copyright-right" style={{color:"#ffffff"}}>Made with <i  className="fas fa-heart" /> By <a href="#">Team CurlyBear</a></div>
                                 </div>
